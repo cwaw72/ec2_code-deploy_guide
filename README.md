@@ -1,6 +1,8 @@
 # nodejs_ec2_code-deploy_guide
 Nodejs EC2 자동배포(CD)에 대한 정리 및 가이드
 
+master 브랜치 삭제 예정 메인 Branch : main
+
 branch 정보
 - master 브랜치 : 테스트 코드
 
